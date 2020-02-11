@@ -1,1 +1,1 @@
-# Hangman-Constructor-Pattern
+# Simple word game using constructor pattern
